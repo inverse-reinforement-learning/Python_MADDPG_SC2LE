@@ -1,6 +1,6 @@
 # pysc2_maddpg
-环境配置相关请查看我的个人博客http://joe.antisi.cn/?page_id=57
 
-Python -m pysc2.bin.agent --map no_loop_reapers
+这是我在中科院自动化所的实习代码，主要是利用深度强化学习的MADDPG算法，应用到暴雪开源的SC2LE强化学习开发环境，具体算法和环境介绍请看wiki。
 
-python -m pysc2.bin.agent --map DefeatRoaches --agent pysc2.agents.scripted_agent.DefeatRoaches
+持续更新。。。
+
