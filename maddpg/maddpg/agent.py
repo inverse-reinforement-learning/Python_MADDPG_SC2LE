@@ -89,11 +89,12 @@ class MADDPG(base_agent.BaseAgent):
     player_relative = obs.observation["screen"][_PLAYER_RELATIVE]
     army_y, army_x = (player_relative == _PLAYER_HOSTILE).nonzero()
     """
+
     for i in range(self.num_units):
       if _SELECT_UNIT in obs.observation["available_actions"]:
         action = [actions.FunctionCall(_SELECT_UNIT, [[0], [i]])]
         obs = env.step(action)[0]
-        self.changeDistanceMatrix(obs,i)
+        #self.changeDistanceMatrix(obs,i)
       if _SELECT_CONTROL_GROUP in obs.observation["available_actions"]:
         action = [actions.FunctionCall(_SELECT_CONTROL_GROUP, [[2], [i]])]
         obs = env.step(action)[0]
@@ -107,7 +108,7 @@ class MADDPG(base_agent.BaseAgent):
     if _SELECT_UNIT in obs.observation["available_actions"]:
         action = [actions.FunctionCall(_SELECT_UNIT, [[2], [0]])]
         obs = env.step(action)[0]
-     if _ATTACK_SCREEN in obs.observation["available_actions"]:
+    if _ATTACK_SCREEN in obs.observation["available_actions"]:
         index = np.argmax(army_y)
         target = [army_x[index], army_y[index]]
         action = [actions.FunctionCall(_ATTACK_SCREEN, [_NOT_QUEUED, target])]

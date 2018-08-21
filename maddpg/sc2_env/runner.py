@@ -84,15 +84,17 @@ def run_loop(agents, env, max_frames=0):
         for a, timestep in zip(agents, timesteps):
             a.selected_units(timestep)
             obs_shape_n, timestep = a.build_group(timestep, env)
-            action_space = [i for i in range(7)]
+            action_space = [i for i in range(3)]
             action_space_n = []
             agent_rewards = []
             for i in range(a.num_units):
                 agent_rewards.append([0.0])
                 action_space_n.append(action_space)
             trainers = get_trainers(action_space_n, a.num_units, obs_shape_n, arglist)
+
             # Initialize
             U.initialize()
+
             # Load previous results, if necessary
             if arglist.load_dir == "":
                 arglist.load_dir = arglist.save_dir

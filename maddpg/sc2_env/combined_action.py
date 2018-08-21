@@ -65,7 +65,7 @@ def attack(obs, env):
         if obs.last():
             return False
     return obs
-
+'''
 def moveUp(obs,env,stride=_UP_STRIDE):
     selected = obs.observation["screen"][_SELECTED]
     selected_y,selected_x=(selected == 1).nonzero()
@@ -165,9 +165,9 @@ def moveRight(obs,env,stride=_RIGHT_STRIDE):
         else:
             return obs
     return obs
-
+'''
 def get_action(action, obs, env):
-    combined_action = [wait, KD8Charge, attack, moveUp, moveDown, moveLeft, moveRight]
+    combined_action = [wait, KD8Charge, attack]
     action = action.tolist()
     action_id = action.index(max(action))
     obs = combined_action[action_id](obs, env)

@@ -9,6 +9,10 @@ from maddpg.maddpg import AgentTrainer
 
 
 def discount_with_dones(rewards, dones, gamma):
+    print("$$$$$$$$$$$$$$$$$")
+    print("$$$$$$$$$$$$$$$$$")
+    print("$$$$$$$$$$$$$$$$$")
+    print("discount "+gamma);
     discounted = []
     r = 0
     for reward, done in zip(rewards[::-1], dones[::-1]):
