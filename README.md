@@ -64,6 +64,8 @@
 
 其余情况均远离。
 
+Github上可能无法加载共识，[condition图片版点击此处](https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/Snip20180827_16.png)。
+
 ### strategy
 
 采取攻击策略有助于提升胜率，但是盲目攻击又将带来损失，因此我们制定了一套该场景下的策略。
