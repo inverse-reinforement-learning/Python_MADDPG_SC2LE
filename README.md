@@ -64,7 +64,7 @@
 
 其余情况均远离。
 
-Github上可能无法加载共识，[condition图片版点击此处](https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/Snip20180827_16.png)。
+Github上可能无法加载condition，[condition图片版点击此处](https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/Snip20180827_16.png)。
 
 ### strategy
 
