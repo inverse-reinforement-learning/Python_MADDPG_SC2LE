@@ -48,11 +48,11 @@
 
 ### train_maddpg.py
 
-[train_maddpg.py](https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/train_maddpg.py)训练总文件，配置好环境之后运行的文件。
+[train_maddpg.py](https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/train_maddpg.py)**训练总文件，配置好环境之后运行的文件。**
 
 ## 设计思路
 
-游戏采用最简单的5v5场景，为了让收割者们通过学习学到好的策略，设计采用condition-strategy-rewards的基本构架。
+游戏采用最简单的5v5场景，为了让收割者们通过学习学到好的策略，**设计采用condition-strategy-rewards的基本构架。**
 
 ### condition
 
@@ -81,7 +81,42 @@ rewards在[agent.py](https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/m
 
 ### 代码截图
 
-<img src="media/15271527099044/Snip20180815_1.png" width="300" hegiht="300" align=center />
+<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG0.png" width="300" hegiht="300" align=center />
+
+<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG1.png" width="300" hegiht="300" align=center />
+
+<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG2.png" width="300" hegiht="300" align=center />
+
+<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG3.png" width="300" hegiht="300" align=center />
+
+### 对战截图
+
+<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG5.png" width="300" hegiht="300" align=center />
+
+<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG6.png" width="300" hegiht="300" align=center />
+
+<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG7.png" width="300" hegiht="300" align=center />
+
+<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG8.png" width="300" hegiht="300" align=center />
+
+<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG10.png" width="300" hegiht="300" align=center />
+
+<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG18.png" width="300" hegiht="300" align=center />
+
+<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG17.png" width="300" hegiht="300" align=center />
+
+### 结果截图
+
+* 在初始化为攻击状态，动作空间为3个动作时，胜率可以达到90%多。
+* 在初始化为任意状态，动作空间为3个动作时，胜率可以达到50%多。
+* 在初始化为任意状态，动作空间为7个动作时，胜率只有20%左右。
+
+<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG13.png" width="300" hegiht="300" align=center />
+
+<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG12.png" width="300" hegiht="300" align=center />
+
+<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG16.png" width="300" hegiht="300" align=center />
+
 
 ## 鸣谢
 
