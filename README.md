@@ -79,7 +79,9 @@ rewards在[agent.py](https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/m
 
 ## 项目结果
 
+### 代码截图
 
+<img src="media/15271527099044/Snip20180815_1.png" width="300" hegiht="300" align=center />
 
 ## 鸣谢
 
