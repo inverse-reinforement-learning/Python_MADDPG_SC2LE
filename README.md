@@ -6,7 +6,7 @@
 
 ## 功能
 
-利用Open AI的MADDPG多智体联合算法，训练了星际争霸2环境中最基本5v5对抗中的收割者。
+利用[Open AI](https://www.openai.com)的[MADDPG](https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Papers/MADDPG.pdf)多智体联合算法，训练了星际争霸2——[sc2le](https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Papers/sc2le.pdf)环境中最基本5v5对抗中的收割者。
 
 * 当动作空间为3，初始态为攻击态时，胜率达到90%。
 * 通过训练，收割者能够实现索敌靠近。
