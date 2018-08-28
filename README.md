@@ -119,6 +119,49 @@ rewards在[agent.py](https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/m
 
 <img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG16.png" width="300" hegiht="300" align=center />
 
+## 参考
+
+### 前人工作
+
+【1】[星际争霸2人工智能研究环境SC2LE初体验](https://zhuanlan.zhihu.com/p/28471863)
+
+【2】[迈向通用人工智能：星际争霸2人工智能研究环境SC2LE完全入门指南](https://zhuanlan.zhihu.com/p/28434323)
+
+【3】[星际争霸2之环境配置](http://123.206.88.218/mysite/?p=101)
+
+【4】[星际争霸2之MADDPG算法](http://123.206.88.218/mysite/?p=97)
+
+
+### 参考网页
+
+【1】[强化学习基本介绍](https://blog.csdn.net/coffee_cream/article/details/57085729)
+
+【2】[DNQ介绍](https://blog.csdn.net/asd136912/article/details/79333312)
+
+【3】[Intel——DNQ](https://ai.intel.com/demystifying-deep-reinforcement-learning/)
+
+【4】[MADDPG论文翻译](https://blog.csdn.net/qiusuoxiaozi/article/details/79066612)
+
+【5】[MADDPG官方文档](https://blog.openai.com/learning-to-cooperate-compete-and-communicate/)
+
+【6】[MADDPG简介](http://baijiahao.baidu.com/s?id=1603659635129840317&wfr=spider&for=pc)
+
+【7】[DDPG详解](https://blog.csdn.net/kenneth_yu/article/details/78478356)
+
+【8】[深度学习A3C](https://blog.csdn.net/u013236946/article/details/73195035)
+
+
+### 参考代码
+
+【1】[openai/MADDPG](https://github.com/openai/maddpg)
+
+【2】[Blizzard/s2client-proto](https://github.com/Blizzard/s2client-proto)
+
+【3】[deepmind/pysc2](https://github.com/deepmind/pysc2)
+
+【4】[fangbrodie/pysc2_maddpg](https://github.com/fangbrodie/pysc2_maddpg)
+
+
 
 ## 鸣谢
 
