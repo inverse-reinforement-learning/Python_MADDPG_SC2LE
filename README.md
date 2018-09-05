@@ -83,29 +83,29 @@ rewards在[agent.py](https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/m
 
 ### 代码截图
 
-<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG0.png" width="300" hegiht="300" align=center />
+![](https://s6.postimg.cc/8ktify6z5/Wechat_IMG0.png)
 
-<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG1.png" width="300" hegiht="300" align=center />
+![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG1.png)
 
-<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG2.png" width="300" hegiht="300" align=center />
+![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG2.png)
 
-<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG3.png" width="300" hegiht="300" align=center />
+![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG3.png)
 
 ### 对战截图
 
-<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG5.png" width="300" hegiht="300" align=center />
+![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG5.png)
 
-<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG6.png" width="300" hegiht="300" align=center />
+![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG6.png)
 
-<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG7.png" width="300" hegiht="300" align=center />
+![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG7.png)
 
-<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG8.png" width="300" hegiht="300" align=center />
+![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG8.png)
 
-<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG10.png" width="300" hegiht="300" align=center />
+![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG10.png)
 
-<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG18.png" width="300" hegiht="300" align=center />
+![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG18.png)
 
-<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG17.png" width="300" hegiht="300" align=center />
+![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG17.png)
 
 ### 结果截图
 
@@ -113,11 +113,11 @@ rewards在[agent.py](https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/m
 * 在初始化为任意状态，动作空间为3个动作时，胜率可以达到50%多。
 * 在初始化为任意状态，动作空间为7个动作时，胜率只有20%左右。
 
-<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG13.png" width="300" hegiht="300" align=center />
+![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG13.png)
 
-<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG12.png" width="300" hegiht="300" align=center />
+![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG12.png)
 
-<img src="https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/master/Images/WechatIMG16.png" width="300" hegiht="300" align=center />
+![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG16.png)
 
 ## 参考
 
