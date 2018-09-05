@@ -87,25 +87,25 @@ rewards在[agent.py](https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/m
 
 ![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG1.png)
 
-![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG2.png)
+![](https://s6.postimg.cc/xe32gmkup/Wechat_IMG2.png)
 
-![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG3.png)
+![](https://s6.postimg.cc/5dyywcp41/Wechat_IMG3.png)
 
 ### 对战截图
 
-![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG5.png)
+![](https://s6.postimg.cc/bro1zmov5/Wechat_IMG5.png)
 
-![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG6.png)
+![](https://s6.postimg.cc/h32ykcqdd/Wechat_IMG6.png)
 
-![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG7.png)
+![](https://s6.postimg.cc/6g95exai9/Wechat_IMG7.png)
 
-![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG8.png)
+![](https://s6.postimg.cc/7vaq3nr0x/Wechat_IMG8.png)
 
-![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG10.png)
+![](https://s6.postimg.cc/4bosduw0x/Wechat_IMG10.png)
 
-![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG18.png)
+![](https://s6.postimg.cc/7vaq3oe69/Wechat_IMG18.png)
 
-![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG17.png)
+![](https://s6.postimg.cc/vma3ls6nl/Wechat_IMG17.png)
 
 ### 结果截图
 
@@ -113,11 +113,12 @@ rewards在[agent.py](https://github.com/LovelyBuggies/Python_MADDPG_SC2LE/blob/m
 * 在初始化为任意状态，动作空间为3个动作时，胜率可以达到50%多。
 * 在初始化为任意状态，动作空间为7个动作时，胜率只有20%左右。
 
-![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG13.png)
+![](https://s6.postimg.cc/dw8f0pb29/Wechat_IMG13.png)
 
-![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG12.png)
+![](https://s6.postimg.cc/gqbke55ip/Wechat_IMG12.png)
 
-![](https://s6.postimg.cc/uwrb9clip/Wechat_IMG16.png)
+![](https://s6.postimg.cc/plceoo9qn/Wechat_IMG16.png)
+
 
 ## 参考
 
