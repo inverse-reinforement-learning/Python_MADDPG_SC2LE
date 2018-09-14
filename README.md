@@ -1,4 +1,4 @@
-$$# pysc2_maddpg
+# pysc2_maddpg
 
 [TOC]
 
