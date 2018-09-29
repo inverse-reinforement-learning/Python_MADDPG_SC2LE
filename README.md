@@ -1,5 +1,7 @@
 # pysc2_maddpg
 
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 ## 目录
 
 * [目录](https://github.com/LovelyBuggies/Python_MADDPG_SC2LE#目录)
